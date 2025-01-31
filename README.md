@@ -1,4 +1,4 @@
-# 🚢 CS412 HW3 - Titanic Survival Prediction
+# 🚢 CS412 (ML) HW3 - Titanic Survival Prediction
 
 This project applies machine learning techniques to predict **Titanic survival outcomes** using `scikit-learn`. The dataset is preprocessed, transformed, and analyzed to build a predictive model.
 
