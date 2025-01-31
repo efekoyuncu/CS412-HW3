@@ -73,8 +73,6 @@ Execute all cells in order to preprocess data, train models, and view results.
 
 ---
 
-## 📜 **License**
-This project is licensed under the **MIT License**.
 
 👨‍💻 Developed by **Efe Koyuncu**  
-📍 **Sabancı University - CS412**  
+
